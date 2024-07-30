@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-29T22:21:11 IST" name="Default suite" finished-at="2024-07-29T22:21:32 IST" duration-ms="20894">
+    <groups>
+    </groups>
+    <test started-at="2024-07-29T22:21:11 IST" name="Default test" finished-at="2024-07-29T22:21:32 IST" duration-ms="20894">
+      <class name="MagentoTestingBoard.Screenshot_Summit_Watch">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MagentoTestingBoard.Screenshot_Summit_Watch@25641d39]" started-at="2024-07-29T22:21:11 IST" name="setUp" finished-at="2024-07-29T22:21:14 IST" duration-ms="2634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testScreenshotSummitWatch()[pri:0, instance:MagentoTestingBoard.Screenshot_Summit_Watch@25641d39]" started-at="2024-07-29T22:21:14 IST" name="testScreenshotSummitWatch" finished-at="2024-07-29T22:21:31 IST" duration-ms="17701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScreenshotSummitWatch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MagentoTestingBoard.Screenshot_Summit_Watch@25641d39]" started-at="2024-07-29T22:21:31 IST" name="tearDown" finished-at="2024-07-29T22:21:32 IST" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MagentoTestingBoard.Screenshot_Summit_Watch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
